@@ -4,6 +4,9 @@
 <h1 align="center">Hi 👋, I'm Bhupin Wagle</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
 
+<img align="left" alt="Discord status" width="400" src="https://discord.c99.nl/widget/theme-3/1019140706138329120.png">
+<p align="left"> <a href="https://twitter.com/birajlamsal" target="blank"><img src="https://img.shields.io/twitter/follow/birajlamsal?logo=twitter&style=for-the-badge" alt="birajlamsal" /></a> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhupin2&label=Profile%20views&color=0e75b6&style=flat" alt="bhupin2" /> </p>
 
 - 📫 How to reach me **waglebhupin18@gmail.com**
